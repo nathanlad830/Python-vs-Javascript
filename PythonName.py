@@ -1,4 +1,4 @@
-name = Nathan
+name = "Nathan"
 if len(name) >= 3:
 	print("Cool name!")
 	print("In case you forgot your name is, "
